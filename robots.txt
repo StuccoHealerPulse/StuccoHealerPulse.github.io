@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://stuccohealerpulse.github.io/sitemap.xml
